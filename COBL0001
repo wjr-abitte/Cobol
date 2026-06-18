@@ -1,0 +1,20 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. COBL0001.
+       AUTHOR. Walter Miguel Abitte Junior.
+
+       PROCEDURE DIVISION.
+
+           PERFORM MOSTRAR-DISPLAY.
+           PERFORM FINALIZAR.
+
+       MOSTRAR-DISPLAY.
+           Display "==============".
+           DISPLAY “HELLO WORLD!!!”.
+           Display "==============".
+
+       FIM-MOSTRAR-DISPLAY.   
+    
+
+       FINALIZAR.
+           STOP RUN.
+       FIM-FINALIZAR.
