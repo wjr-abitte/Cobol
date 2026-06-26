@@ -8,9 +8,10 @@
            PERFORM FINALIZAR.
 
        MOSTRAR-DISPLAY.
-           Display "==============".
-           DISPLAY “HELLO WORLD!!!”.
-           Display "==============".
+
+           Display '=============='.
+           DISPLAY 'HELLO WORLD!!!'.
+           Display '=============='.
 
        FIM-MOSTRAR-DISPLAY.   
     
